@@ -175,6 +175,20 @@ section {
   transform: translateY(-2px);
 }
 
+.btn-location {
+  background: #1a73e8;
+  color: var(--white);
+  border-color: #1a73e8;
+  box-shadow: 0 4px 16px rgba(26, 115, 232, 0.35);
+}
+.btn-location:hover {
+  background: #1558c0;
+  border-color: #1558c0;
+  box-shadow: 0 6px 24px rgba(26, 115, 232, 0.5);
+  transform: translateY(-2px);
+  color: var(--white);
+}
+
 /* ────────────────────────────────────────────
    NAVBAR
 ──────────────────────────────────────────── */
